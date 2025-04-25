@@ -15,7 +15,7 @@ const Contact = () => {
           </p>
           <div className="flex justify-center gap-4">
             <Button variant="outline" size="lg" className="hover:bg-blue-500 hover:text-white" asChild>
-              <a href="mailto:your.email@example.com">
+              <a href="mailto:kishorekoduru45@gmail.com">
                 <Mail className="h-5 w-5 mr-2" />
                 Email Me
               </a>
